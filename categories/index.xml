@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Nomadland</title>
+    <link>https://nomadland.github.io/categories/</link>
+    <description>Recent content in Categories on Nomadland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 19:26:16 +0800</lastBuildDate><atom:link href="https://nomadland.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-discovery</title>
+      <link>https://nomadland.github.io/categories/self-discovery/</link>
+      <pubDate>Tue, 14 Feb 2023 19:26:16 +0800</pubDate>
+      
+      <guid>https://nomadland.github.io/categories/self-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://nomadland.github.io/categories/travel/</link>
+      <pubDate>Sun, 12 Feb 2023 12:53:32 +0800</pubDate>
+      
+      <guid>https://nomadland.github.io/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annual Summary</title>
+      <link>https://nomadland.github.io/categories/annual-summary/</link>
+      <pubDate>Fri, 30 Dec 2022 12:21:24 +0800</pubDate>
+      
+      <guid>https://nomadland.github.io/categories/annual-summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introspect</title>
+      <link>https://nomadland.github.io/categories/introspect/</link>
+      <pubDate>Tue, 22 Nov 2022 12:21:24 +0800</pubDate>
+      
+      <guid>https://nomadland.github.io/categories/introspect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://nomadland.github.io/categories/life/</link>
+      <pubDate>Sat, 02 Jul 2022 12:21:24 +0800</pubDate>
+      
+      <guid>https://nomadland.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plays and Shows</title>
+      <link>https://nomadland.github.io/categories/plays-and-shows/</link>
+      <pubDate>Mon, 30 Jul 2018 12:21:24 +0800</pubDate>
+      
+      <guid>https://nomadland.github.io/categories/plays-and-shows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
