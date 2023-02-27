@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Annual Summary on Nomadland</title>
-    <link>https://nomadland.github.io/categories/annual-summary/</link>
+    <link>https://nomadland-sl.github.io/categories/annual-summary/</link>
     <description>Recent content in Annual Summary on Nomadland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 12:21:24 +0800</lastBuildDate><atom:link href="https://nomadland.github.io/categories/annual-summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 12:21:24 +0800</lastBuildDate><atom:link href="https://nomadland-sl.github.io/categories/annual-summary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022总结</title>
-      <link>https://nomadland.github.io/posts/2022_summary/</link>
+      <link>https://nomadland-sl.github.io/posts/2022_summary/</link>
       <pubDate>Fri, 30 Dec 2022 12:21:24 +0800</pubDate>
       
-      <guid>https://nomadland.github.io/posts/2022_summary/</guid>
+      <guid>https://nomadland-sl.github.io/posts/2022_summary/</guid>
       <description>又到了写年末总结的时候了。这一年发生了好多好多事情，事情发生的密度都很大，没来得及花时间去digest上一件事情，下一件事情就发生了。
 千言万语，不止从何处说起。我打算摒弃过去的格式，想到哪写哪（意识流警告）
 今年年初的时候没过几天好日子，就迎来了香港的疫情爆发。我在阴冷的天气里看着一拨又一拨的人离开，最初说好不会走的人都走了，好像就剩我自己一个人在寒潮中逆流而上，说不孤独都是假的。其实现在想来，当时回与不回与我而言根本构不成一个选择。对那时的我来说，光是想想回家我的状态，将过什么样的生活（非常堕落的生活，refer to我一片空白的大五下）我就连连摇头。孤军奋战是需要极大的勇气和魄力的，深夜一个人听着冰冷的雨声怀疑自己到底在坚持什么。明明回去能够有“舒适“的生活，但为什么自己就是不喜欢不想要呢。
@@ -25,10 +25,10 @@
     
     <item>
       <title>2021总结</title>
-      <link>https://nomadland.github.io/posts/2021_summary/</link>
+      <link>https://nomadland-sl.github.io/posts/2021_summary/</link>
       <pubDate>Fri, 31 Dec 2021 12:21:24 +0800</pubDate>
       
-      <guid>https://nomadland.github.io/posts/2021_summary/</guid>
+      <guid>https://nomadland-sl.github.io/posts/2021_summary/</guid>
       <description>一晃就到年底了。在惯常回望和反思之时，发现这两年我的时间尺度很模糊。一些脑海中涌现出很重要的时刻或事件，明明鲜活得感觉就发生在昨日，但其实已经是去年的老黄历了。2020的变化实在是太剧烈了，今年更多的是在慢慢消化，像是去年的自然延续。当然也有很多新鲜的事情发生，但大体都循着一个方向。
 还是像去年那样列一个list进行梳理吧。
 1.一些较大的改变 今年活得比较稳定，没有翻天覆地的巨变发生。如果让我把较大的改变替换成长足持久的点滴进步，我会选择女性主义。这四个字可以说是我的年度关键词，作为一根主线贯穿着我所有的生活和思考。
@@ -56,10 +56,10 @@
     
     <item>
       <title>2020总结</title>
-      <link>https://nomadland.github.io/posts/2020_summary/</link>
+      <link>https://nomadland-sl.github.io/posts/2020_summary/</link>
       <pubDate>Sun, 03 Jan 2021 12:21:24 +0800</pubDate>
       
-      <guid>https://nomadland.github.io/posts/2020_summary/</guid>
+      <guid>https://nomadland-sl.github.io/posts/2020_summary/</guid>
       <description>跨年是一年中我最有仪式感的日子之一（另一天是生日）。这种仪式感可能源于我潜意识对自我一定会有所成长和改变的期许和要求，而带有强烈的辞旧迎新属性的新年和生日就自然而然地成为两个回望和检视自我成长的重要节点了。
 2020没有逃过庚子年的魔咒，在病毒肆虐和经济萧条的阴影之下无人幸免。我则被迫度过了空空如也的半年居家生活，9月回上海实习之后生活才重新忙起来。一空一满，不同的感受和体悟，满足了有所成长和改变的自我要求，于是能够自得和平静地做出年末总结，不再像去年年底那样狼狈和痛苦了。
 能总结的有很多，许多事之间又是相连和相通的。避免凌乱，列一个list进行梳理：
@@ -106,10 +106,10 @@
     
     <item>
       <title>2019</title>
-      <link>https://nomadland.github.io/posts/2019/</link>
+      <link>https://nomadland-sl.github.io/posts/2019/</link>
       <pubDate>Mon, 30 Dec 2019 12:21:24 +0800</pubDate>
       
-      <guid>https://nomadland.github.io/posts/2019/</guid>
+      <guid>https://nomadland-sl.github.io/posts/2019/</guid>
       <description>2019非常难捱
 每天都疲于奔波
 压力从四面八方袭来，根本无处可逃
