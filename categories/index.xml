@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Nomadland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:21:24 +0800</lastBuildDate><atom:link href="https://nomadland-sl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Mar 2025 00:22:24 +0800</lastBuildDate><atom:link href="https://nomadland-sl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introspect</title>
+      <link>https://nomadland-sl.github.io/categories/introspect/</link>
+      <pubDate>Sun, 02 Mar 2025 00:22:24 +0800</pubDate>
+      
+      <guid>https://nomadland-sl.github.io/categories/introspect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-discovery</title>
+      <link>https://nomadland-sl.github.io/categories/self-discovery/</link>
+      <pubDate>Sun, 02 Mar 2025 00:22:24 +0800</pubDate>
+      
+      <guid>https://nomadland-sl.github.io/categories/self-discovery/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Annual Summary</title>
       <link>https://nomadland-sl.github.io/categories/annual-summary/</link>
@@ -17,29 +35,11 @@
     </item>
     
     <item>
-      <title>Self-discovery</title>
-      <link>https://nomadland-sl.github.io/categories/self-discovery/</link>
-      <pubDate>Sat, 12 Oct 2024 00:21:24 +0800</pubDate>
-      
-      <guid>https://nomadland-sl.github.io/categories/self-discovery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Life</title>
       <link>https://nomadland-sl.github.io/categories/life/</link>
       <pubDate>Sun, 18 Aug 2024 00:22:24 +0800</pubDate>
       
       <guid>https://nomadland-sl.github.io/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introspect</title>
-      <link>https://nomadland-sl.github.io/categories/introspect/</link>
-      <pubDate>Fri, 05 Jan 2024 12:53:32 +0800</pubDate>
-      
-      <guid>https://nomadland-sl.github.io/categories/introspect/</guid>
       <description></description>
     </item>
     
