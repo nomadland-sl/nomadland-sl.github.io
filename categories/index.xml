@@ -6,20 +6,11 @@
     <description>Recent content in Categories on Nomadland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 00:22:24 +0800</lastBuildDate><atom:link href="https://nomadland-sl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Travel</title>
-      <link>https://nomadland-sl.github.io/categories/travel/</link>
-      <pubDate>Mon, 26 May 2025 00:22:24 +0800</pubDate>
-      
-      <guid>https://nomadland-sl.github.io/categories/travel/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 09 Sep 2025 00:22:24 +0800</lastBuildDate><atom:link href="https://nomadland-sl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introspect</title>
       <link>https://nomadland-sl.github.io/categories/introspect/</link>
-      <pubDate>Sun, 02 Mar 2025 00:22:24 +0800</pubDate>
+      <pubDate>Tue, 09 Sep 2025 00:22:24 +0800</pubDate>
       
       <guid>https://nomadland-sl.github.io/categories/introspect/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>Self-discovery</title>
       <link>https://nomadland-sl.github.io/categories/self-discovery/</link>
-      <pubDate>Sun, 02 Mar 2025 00:22:24 +0800</pubDate>
+      <pubDate>Tue, 09 Sep 2025 00:22:24 +0800</pubDate>
       
       <guid>https://nomadland-sl.github.io/categories/self-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://nomadland-sl.github.io/categories/travel/</link>
+      <pubDate>Mon, 26 May 2025 00:22:24 +0800</pubDate>
+      
+      <guid>https://nomadland-sl.github.io/categories/travel/</guid>
       <description></description>
     </item>
     
