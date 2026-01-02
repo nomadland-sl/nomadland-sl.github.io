@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Nomadland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Sep 2025 00:22:24 +0800</lastBuildDate><atom:link href="https://nomadland-sl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jan 2026 00:21:24 +0800</lastBuildDate><atom:link href="https://nomadland-sl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annual Summary</title>
+      <link>https://nomadland-sl.github.io/categories/annual-summary/</link>
+      <pubDate>Fri, 02 Jan 2026 00:21:24 +0800</pubDate>
+      
+      <guid>https://nomadland-sl.github.io/categories/annual-summary/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Introspect</title>
       <link>https://nomadland-sl.github.io/categories/introspect/</link>
@@ -31,15 +40,6 @@
       <pubDate>Mon, 26 May 2025 00:22:24 +0800</pubDate>
       
       <guid>https://nomadland-sl.github.io/categories/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Annual Summary</title>
-      <link>https://nomadland-sl.github.io/categories/annual-summary/</link>
-      <pubDate>Sun, 05 Jan 2025 00:21:24 +0800</pubDate>
-      
-      <guid>https://nomadland-sl.github.io/categories/annual-summary/</guid>
       <description></description>
     </item>
     
